@@ -36,3 +36,11 @@ There are no additional specifications for VR, but for AR, you will need [ARCore
 
 Next, we’ll learn about creating a VR scene on Glitch. 
 See you in the next one.
+
+<script src="https://utteranc.es/client.js"
+        repo="vivek-chandela/vivek-chandela.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

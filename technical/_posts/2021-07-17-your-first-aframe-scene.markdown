@@ -72,7 +72,6 @@ You can see a blue box now. Also, there is a VR button on the bottom-right corne
 
 **Basics of Position:**
 
-<!-- ![position](/technical/assets/images/position.png) -->
 <p align="center">
 <img src="/technical/assets/images/position.png" alt="position" width="200" height="200"/>
 </p>
@@ -86,3 +85,11 @@ The camera is positioned at (0,0,0) by default, so to view your asset, your z co
 
 Next, we’ll learn about Entity-Component Architecture in Aframe. 
 See you in the next one.
+
+<script src="https://utteranc.es/client.js"
+        repo="vivek-chandela/vivek-chandela.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

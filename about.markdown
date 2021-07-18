@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+<p align="center">
+<img src="/assets/vivek.png" alt="position" width="300" height="300"/>
+</p>
+
+<br>
 Hey, thanks for taking out your time and energy to visit this page. 
 
 Quick intro -- I'm currently working as a Software Engineer at Salesforce. I did my undergraduate in Computer Science from IIIT-Hyderabad.
