@@ -6,7 +6,7 @@ category: PeFi
 ---
 There are three primary ways of calculating market returns:
 
-#### 1. Absolute return
+### 1. Absolute return
 
 >Absolute return = (Selling price - Buying price)/Buying Price
 
@@ -17,7 +17,7 @@ This method works when selling and buying, both, happen once within the same yea
 ***It does not help to calculate SIP returns.***
 <br><br>
 
-#### 2. CAGR (Compound Annual Growth Rate)
+### 2. CAGR (Compound Annual Growth Rate)
 
 Everyone knows the formula for Compound Interest: Selling Price = Buying Price(1+r)^n
 
@@ -31,7 +31,7 @@ E.g., An agent asks you to invest a lump sum of 2 Cr today and promises you 8 Cr
 
 Here, Absolute return = (8-2)/2 = 300% !!!
 
-Let's check the CAGR = (8/2)^(1/25) - 1 = 5.70 %  
+Let's check the CAGR = (8/2)^(1/25) - 1 = 5.70 % which is quite low.
 
 Hence, it isn’t advisable to use insurance as an investment instrument. Instead, we can take a term plan which comes at a meager price and invest the remaining amount elsewhere.
 
@@ -49,7 +49,7 @@ Here, CAGR = (16000/10000)^(1/5) - 1 = 9.86%
 ***CAGR also doesn't work for SIP returns***
 <br><br>
 
-#### 3. XIRR (Extended Internal Rate of Return)
+### 3. XIRR (Extended Internal Rate of Return)
 
 Let’s say you make a monthly SIP of ₹ 10,000 for three years. So, you have invested in 36 installments, and at the end of 3 years, your portfolio value is ₹ 400000.
 
