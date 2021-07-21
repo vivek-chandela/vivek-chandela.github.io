@@ -76,7 +76,6 @@ You can see a blue box now. Also, there is a VR button on the bottom-right corne
 <img src="/technical/assets/images/position.png" alt="position" width="200" height="200"/>
 </p>
 
-
 To move your asset left/right and top/down, change your x and y coordinates, respectively.
 
 The camera is positioned at (0,0,0) by default, so to view your asset, your z coordinate must be negative (i.e., away from the camera).
