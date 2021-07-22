@@ -1,0 +1,189 @@
+---
+layout: post
+title:  "330 in GRE by spending 0 dollars"
+date:   2021-07-22 11:00:00 +0530
+category: Misc
+---
+
+I recently appeared for my GRE in online mode and scored 329 (Verbal: 161, Quant: 168, AWA: 4). 
+Apart from the exam fees, my net expenses were ZERO.
+
+Coming to the preparation, I usually focus on four things for any exam:
+
+- Preparation Time 
+- Resources 
+- Strategy 
+- Practice
+
+Let’s check them one by one.
+
+## Preparation Time (How much time do I have?)
+
+It took around 25 days for my preparation. 
+
+The exam pattern of GRE includes three sections -- Writing, Verbal, and Quant. Coming from an engineering background, I was reasonably confident about the Quant portion. So, I focused on my vocabulary and practicing my writing skills.
+
+Now, the preparation time may vary based on your situation. Some people clear GRE in 5-10 days, but some practice for 3+ months. So, it depends on you how much time you want to give and your target score.
+
+## Resources (What to study?)
+
+Personally, I am a fan of self-study. It’s not that I have any bias for any coaching, but self-study has more or less worked better for me. Also, self-study incurs little expense compared to coaching.
+
+I try to keep the resources as concise as possible. My resources were:
+
+- The official guide to Revised GRE
+- Official GRE Verbal Reasoning Practice
+- Official GRE Quantitative Reasoning Practice
+- [Greg Mat’s word list with pictures](https://drive.google.com/file/d/1Ux9VWn5-nJJqmw4_I1UkwUybY8eDQnBv/view) (700 most common GRE words)
+- Maghoosh GRE Vocab App (Avoid the Advanced section in this app)
+- [Greg Mat’s Youtube Channel](https://www.youtube.com/channel/UCktwzce9ncy_K78l1KBZkYQ) (the OG!!)
+
+That’s it !!
+
+You can buy the first three resources on GRE’s official website or Amazon. 
+To save money here, you can either borrow them from your seniors or search for the older editions online. The editions don’t matter. The idea of these booklets is to give you an idea of the format and the type of questions in GRE.
+
+## Strategy (How to study?)
+
+Now comes the fun part. The strategy again varies from person to person. So, plan according to that. In my case, I was comfortable with Quant compared to Verbal and Writing. 
+
+### Exam Pattern
+
+The first step is to be clear with the exam pattern -- the number of sections (for Verbal, Writing, and Quant), number of questions, types of questions, time allotted to each section, timings for breaks, etc. 
+
+For this, read the Overview section of **The official guide to Revised GRE**.
+
+It is imperative to know the scoring algorithm of GRE -- check this [here](https://www.youtube.com/watch?v=kO1kCeScHu4).
+
+### Writing
+
+Instead of writing everything here, I’ll just leave links to two videos that should be sufficient on their own:
+
+- [Issue Essay](https://www.youtube.com/watch?v=mhzlaHXHaK4)
+- [Argument Essay](https://www.youtube.com/watch?v=OFa8oeXXuoA)
+
+For this section, four things are essential -- structure, content, length, and coherence.
+
+- **Structure:** The above two videos will suffice.
+
+- **Content:** This is something that you can improve by reading more and more. Read articles in newspapers or books relating to history, politics, economics, etc., which will enhance the examples you provide in your essays.
+
+- **Length:** Aim for writing 500-600 words (~20 words/min) for both essays. 
+
+- **Coherence:** There should be a flow in your essay from one paragraph to another. To improve coherence, write more -- there is no other way.
+
+There are other things like sentence structure, spellings, number of unique words in your essay, etc. They will gradually improve as you write more and more.
+
+I used to make sure to write both Issue and Argument Essays while giving practice tests. 
+
+During practice, avoid using any language tools, as the actual test will have no support for any tool.
+
+Next, I would analyze my essays using a tool named [Grammarly](https://www.grammarly.com). Using this, you can check the spelling and sentence structure quickly. Grammarly also has an extension for different browsers, so that makes it more convenient.
+
+Finally, make sure to read the Reader commentary (for 4+ scores), given after every essay in the resources. You will learn a lot by simply reading them and comparing them with your writing.
+
+### Quantitative Reasoning
+
+There is only one thing you need to do for this section -- **Practice**.
+
+Now, practice depends on your fundamentals and background. First, go through the resources mentioned above. You will get to know the syllabus, theory, and types of questions for the four Quant subsections -- Arithmetic, Algebra, Geometry, and Data Interpretation.
+
+For beginners, you can dive deeper by going through [ETS Math Review Guide](https://www.ets.org/s/gre/pdf/gre_math_review.pdf). It is relatively comprehensive (~200 pages), so I won’t recommend it for people with an excellent math background.
+
+For the practice tests, make sure that you follow the time limits, whether a full-length test or simply an individual section. For example, if you are doing a Quant section, make sure to do it within 35 minutes, which you will get in the actual test.
+
+### Verbal Reasoning
+	
+#### 1. Vocabulary
+
+The first part of Verbal is to know your vocabulary strength. For this, try solving some of the videos in this [playlist](https://www.youtube.com/watch?v=_1EJC-E_VM4&list=PLFzybs-0YWa2Qz9o2ujq_wLPisdXhmD1L). 
+If your score is consistently < 25, you need to work on your vocabulary.
+
+The best way to improve your vocabulary is to read articles, books, newspapers, etc.<br>However, this can be tedious :p. Let’s look at more straightforward options instead.
+
+Check out the word list in the resources. The images that accompany all the words act as good mnemonics.
+
+Knowing the meanings is not enough as many words have different meanings in different contexts.<br>
+Let us take an easy example of the word “engaged.”
+
+Sentence 1: They got **engaged** on March 7th.
+
+Sentence 2: The students were very **engaged** in the presentation.
+	
+In Sentence 1, engaged stands for marriage, while in Sentence 2, it stands for interest.
+
+For tackling the context of words, you can use **Maghoosh GRE Vocab App** available on the IOS/Android Play Store. It is entirely free and has flashcards with word meanings and multiple sentences for each word.
+Avoid doing the Advanced section in the app. The output you get won’t be proportional to the effort you will put in. 
+
+Improving your vocabulary is a journey and not a destination. Don’t expect to become an expert in a day. You need to practice them every day (50-100 words a day is a good start). 
+
+#### 2. Reading Comprehensions (RC)
+
+RCs are the kryptonite for many GRE aspirants. Again they can be improved by one thing -- Practice.
+
+Also, you can watch these videos by Greg Mat for some tips and tricks -- [video 1](https://www.youtube.com/watch?v=CrgEQwEZIkQ&list=PLFzybs-0YWa1bTohN3TrHqzrt6JPOtrf_&index=20), [video 2](https://www.youtube.com/watch?v=VaPZja1M8a4&list=PLFzybs-0YWa1bTohN3TrHqzrt6JPOtrf_&index=21), [video 3](https://www.youtube.com/watch?v=7pUvqCcSlcU&list=PLFzybs-0YWa1bTohN3TrHqzrt6JPOtrf_&index=17), [video 4](https://www.youtube.com/watch?v=y8DZAzy11Qo&list=PLFzybs-0YWa1bTohN3TrHqzrt6JPOtrf_&index=35), [video 5](https://www.youtube.com/watch?v=H-MJ6GxYNck&list=PLFzybs-0YWa1bTohN3TrHqzrt6JPOtrf_&index=29), [video 6](https://www.youtube.com/watch?v=mBe2DvhQXqY&list=PLFzybs-0YWa1bTohN3TrHqzrt6JPOtrf_&index=30)
+
+**My two cents on RC:**
+
+- Don’t use your knowledge.
+
+- Keep your answers strictly according to the passage. 
+
+- Make no assumptions outside the passage. 
+
+- Avoid answer choices that contain harsh words (only, best, most useful, etc.). They are usually traps set by GRE.
+
+#### 3. Text Completions (TC)
+
+TCs are quite scoring if you can find the sentiment of a sentence(s) and eliminate the opposite sentiment choices. 
+
+You can watch these videos by Greg Mat to know more -- [video 1](https://www.youtube.com/watch?v=ODcHjbeiftA&list=PLFzybs-0YWa1bTohN3TrHqzrt6JPOtrf_), [video 2](https://www.youtube.com/watch?v=PKXVxTKVQX4&list=PLFzybs-0YWa1bTohN3TrHqzrt6JPOtrf_&index=13), [video 3](https://www.youtube.com/watch?v=LHzWQSEcjlo), [video 4](https://www.youtube.com/watch?v=7g-l2-2LVPQ&t=1828s)
+
+**My two cents on TC:**
+
+- Always hide the answer choices. All of them have traps. First, come up with a word for each blank. Now, select the answer choice that most closely resembles this word. Hiding the answer choices is important because multiple words can correctly fill a particular blank. Still, only one will satisfy the overall context of the sentence(s).
+
+- In case of multiple blanks, don’t always go from first to the last blank. Fill the easiest blank first.
+
+#### 3. Sentence Equivalence (SE)
+
+SEs depend on your vocabulary prowess the most. So, if you have worked on your vocabulary, they are the easiest of the three Verbal sections.
+
+Apart from vocabulary, there is one thing you need -- watch this [video](https://www.youtube.com/watch?v=szdk6IGF9hQ&t=638s).
+
+**My two cents on SE:**
+
+- When going over the word list in the resources or Maghoosh app, combine the words with similar meanings. You can create a separate document for this which will help you a lot in your SEs.
+
+- Knowing the sentiment of a word can help you even if you don’t remember the actual meaning.
+		
+#### Final thoughts on Verbal Reasoning
+
+- My preferred order for doing the Verbal section: SE > TC > RC
+
+- SE + TC in 8-10 mins, RC in 15 mins, 5 mins for revision
+
+- You can only apply the techniques given in the videos with enough practice. Even if you don’t use them due to time constraints, they will provide you an excellent map to go about the questions.
+
+- Don’t be biased towards any section. Many people are afraid of RCs, which is unwarranted. For instance, your section might have tough SE/TC as both depend a lot on your vocabulary. So you can’t be sure of the meaning when some random word appears out of the blue. However, you can expect to solve most RCs if you practice enough.
+
+## Practice (How to apply what you learned?)
+
+First of all, do every section in the resources following the time limits. Even if you exceed that limit at the start, it is okay. You need to feel that pressure before the actual exam.
+
+In my last week of prep, I just gave full-length tests at the exact time of my actual exam. This type of practice will maximize your focus during that 3.5-4 hour slot. It will also get rid of any anxiety. On the test day, you will feel as if it is just another test.
+
+ETS provides 2 sample tests when you book the exam. Also, there are two full-length tests given in “The official guide to Revised GRE.” If you want more practice, you can join the test series of some online test prep programs, but this is optional.
+
+One of the sections in the actual test will be a dummy Verbal/Quant section. It can come at any point of the test after the Writing section. So, be focused the whole time. Don’t get too overexcited or depressed if one of your sections goes too tremendous or too sour. 
+
+Best of luck with your exam !!!
+
+
+<script src="https://utteranc.es/client.js"
+        repo="vivek-chandela/vivek-chandela.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
