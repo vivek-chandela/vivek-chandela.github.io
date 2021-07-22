@@ -51,7 +51,7 @@ You can add text with the `<a-text>` element.
 
 A photosphere is simply an image captured in all possible viewing directions. They usually act as a background for AR/VR scenes. 
 
-We’ll add an equirectangular photosphere to our project using [flickr](http://flickr.com/groups/equirectangular/)
+We’ll add an equirectangular photosphere to our project using [flickr](http://flickr.com/groups/equirectangular/).
 
 Like an image, drag the photosphere file (.jpg or .png) into the assets folder of your Glitch project and copy its URL.
 
@@ -59,7 +59,7 @@ To make the photosphere the background of our scene, we can add an `<a-sky>` ele
 
 `<a-sky src="URL"></a-sky>`
 
-**Note:** You can preload the photosphere using Asset Management System for better performance. To read more about Asset Management System in my previous post [here](https://vivek-chandela.github.io/technical/2021/07/21/first-3D-model.html)
+**Note:** You can preload the photosphere using Asset Management System for better performance. To read more about Asset Management System check my previous post [here](https://vivek-chandela.github.io/technical/2021/07/21/first-3D-model.html).
 
 ### 4. Audio, Video, and Videospheres
 
@@ -90,7 +90,7 @@ I prefer to use the following formats while dragging audios/videos to my assets 
 
 You use an `<audio>` element for loading an audio asset and a `<video>` element for loading a video asset inside the asset management system.
 
-We can play audio by using the sound component inside an `<a-entity>`. It is a core component of Aframe which defines the entity as a source of sound or audio. Set the src property of the sound component to be the hash sign followed by the id of the preloaded audio asset in `<a-assets>`.
+We can play audio by using the sound component inside an `<a-entity>`. It is a core component of Aframe that defines the entity as a source of sound or audio. Set the src property of the sound component to be the hash sign followed by the id of the preloaded audio asset in `<a-assets>`.
 
 To put a video in your scene, you can use the `<a-video>` entity. Set the src attribute to be the hash sign followed by the id of the preloaded audio asset in `<a-assets>`.
 
